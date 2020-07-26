@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hi, I'm Vamsee.
 
-I'm glad you are here. I plan to talk about ...
+I am a *Passionate* software developer who loves coding and learning new technologies.
